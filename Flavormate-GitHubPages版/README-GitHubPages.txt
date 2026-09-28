@@ -1,0 +1,1 @@
+将 public 文件夹内的全部文件上传到 GitHub 仓库根目录，然后在 Settings → Pages → Deploy from branch → main → /(root) → Save。等待几分钟后，网址为 https://你的用户名.github.io/仓库名/。此版本可在静态网页上运行菜谱、计划、购物清单和本地推荐。

@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "西兰花鸡胸藜麦碗",
+    "tags": "均衡 高蛋白 低油",
+    "ingredients": "鸡胸肉 西兰花 藜麦 胡萝卜 橄榄油 盐",
+    "kcal": 460,
+    "protein": 38,
+    "minutes": 25,
+    "why": "蛋白质充足，蔬菜和全谷物比例均衡。",
+    "id": "chicken-bowl",
+    "meal": "午餐",
+    "subtitle": "用一碗好好吃饭",
+    "servings": 1,
+    "items": [
+      {
+        "name": "鸡胸肉",
+        "quantity": 150,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "西兰花",
+        "quantity": 150,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "藜麦",
+        "quantity": 60,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "胡萝卜",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "盐",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备食材",
+        "text": "蔬菜洗净切块。鸡胸肉使用单独的砧板切块，与即食食物分开放置。",
+        "seconds": 0
+      },
+      {
+        "title": "煮藜麦",
+        "text": "藜麦淘洗后按包装指引加水煮熟，沥去多余水分。",
+        "seconds": 900
+      },
+      {
+        "title": "烹调鸡胸肉",
+        "text": "锅中放橄榄油，翻炒鸡肉至完全熟透；中心温度达到 74°C。计时仅供参考，以熟透为准。",
+        "seconds": 480
+      },
+      {
+        "title": "搭配装碗",
+        "text": "西兰花和胡萝卜煮熟，与藜麦、鸡肉装碗，少量盐调味。",
+        "seconds": 180
+      }
+    ]
+  },
+  {
+    "name": "番茄豆腐汤",
+    "tags": "均衡 低油 快手",
+    "ingredients": "番茄 豆腐 金针菇 菠菜 橄榄油 盐",
+    "kcal": 280,
+    "protein": 18,
+    "minutes": 18,
+    "why": "低油快手，适合需要清淡口味的日常晚餐。",
+    "id": "tomato-tofu",
+    "meal": "晚餐",
+    "subtitle": "一碗温热的清爽",
+    "servings": 1,
+    "items": [
+      {
+        "name": "番茄",
+        "quantity": 180,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "豆腐",
+        "quantity": 150,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "金针菇",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "菠菜",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "盐",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "番茄切块，豆腐切丁，金针菇切去根部，菠菜洗净。",
+        "seconds": 0
+      },
+      {
+        "title": "炒番茄",
+        "text": "锅中放少量油，炒软番茄，再加入约 400 ml 水。",
+        "seconds": 180
+      },
+      {
+        "title": "煮汤",
+        "text": "煮沸后放入豆腐与金针菇，保持微沸煮熟。",
+        "seconds": 480
+      },
+      {
+        "title": "出锅",
+        "text": "加入菠菜煮熟，少量盐调味。这道汤可配主食，不代表完整一餐。",
+        "seconds": 120
+      }
+    ]
+  },
+  {
+    "name": "虾仁时蔬饭",
+    "tags": "高蛋白 快手",
+    "ingredients": "虾仁 玉米 青豆 鸡蛋 米饭 橄榄油 盐",
+    "kcal": 520,
+    "protein": 32,
+    "minutes": 20,
+    "why": "虾仁和鸡蛋提供蛋白质，适合工作日快速制作。",
+    "id": "shrimp-rice",
+    "meal": "午餐",
+    "subtitle": "忙碌午间也有好饭",
+    "servings": 1,
+    "items": [
+      {
+        "name": "虾仁",
+        "quantity": 120,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "玉米",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "青豆",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "鸡蛋",
+        "quantity": 1,
+        "unit": "个",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "米饭",
+        "quantity": 150,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "盐",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "使用新煮米饭或及时冷藏的熟米饭；虾仁清理干净，鸡蛋打散，玉米和青豆预煮熟。",
+        "seconds": 0
+      },
+      {
+        "title": "炒蛋",
+        "text": "锅中放油，倒入蛋液炒至凝固后盛出。",
+        "seconds": 120
+      },
+      {
+        "title": "炒虾仁",
+        "text": "虾仁炒至肉质不透明、完全熟透，再放入玉米和青豆。",
+        "seconds": 240
+      },
+      {
+        "title": "合炒",
+        "text": "放入米饭、鸡蛋与盐翻炒，确保米饭充分加热，趁热食用。",
+        "seconds": 240
+      }
+    ]
+  },
+  {
+    "name": "牛油果鸡蛋全麦吐司",
+    "tags": "高蛋白 早餐",
+    "ingredients": "牛油果 鸡蛋 全麦面包 番茄",
+    "kcal": 390,
+    "protein": 21,
+    "minutes": 12,
+    "why": "准备时间短，含有全谷物和优质脂肪。",
+    "id": "avocado-toast",
+    "meal": "早餐",
+    "subtitle": "从一份早餐开始",
+    "servings": 1,
+    "items": [
+      {
+        "name": "牛油果",
+        "quantity": 70,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "鸡蛋",
+        "quantity": 1,
+        "unit": "个",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "全麦面包",
+        "quantity": 2,
+        "unit": "片",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "番茄",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "牛油果去皮去核压成泥，番茄洗净切片。",
+        "seconds": 0
+      },
+      {
+        "title": "煮蛋",
+        "text": "鸡蛋煮至蛋白与蛋黄完全凝固，去壳切片。",
+        "seconds": 600
+      },
+      {
+        "title": "烤面包",
+        "text": "全麦面包按设备说明烤至温热。",
+        "seconds": 120
+      },
+      {
+        "title": "组合",
+        "text": "面包涂牛油果泥，放上番茄与熟鸡蛋，即可食用。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "菌菇鸡肉荞麦面",
+    "tags": "均衡 高蛋白",
+    "ingredients": "鸡腿肉 香菇 荞麦面 青菜 橄榄油 盐",
+    "kcal": 480,
+    "protein": 30,
+    "minutes": 24,
+    "why": "菌菇与青菜增加膳食多样性，主食更耐饱。",
+    "id": "mushroom-noodles",
+    "meal": "晚餐",
+    "subtitle": "面条与菌菇的相遇",
+    "servings": 1,
+    "items": [
+      {
+        "name": "鸡腿肉",
+        "quantity": 120,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "香菇",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "荞麦面",
+        "quantity": 70,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "青菜",
+        "quantity": 120,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "盐",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "鸡肉和蔬菜分开切配，香菇切片，青菜洗净。",
+        "seconds": 0
+      },
+      {
+        "title": "煮面",
+        "text": "荞麦面按包装指引煮熟，盛出备用。",
+        "seconds": 360
+      },
+      {
+        "title": "煮鸡肉与菌菇",
+        "text": "少量油炒鸡肉，加水与香菇煮熟。鸡肉中心达到 74°C，确保熟透。",
+        "seconds": 600
+      },
+      {
+        "title": "完成",
+        "text": "放青菜煮熟，将面与汤合并，少量盐调味。",
+        "seconds": 120
+      }
+    ]
+  },
+  {
+    "name": "南瓜鹰嘴豆沙拉",
+    "tags": "低油 素食 均衡",
+    "ingredients": "南瓜 熟鹰嘴豆 生菜 玉米 橄榄油",
+    "kcal": 350,
+    "protein": 15,
+    "minutes": 22,
+    "why": "植物蛋白和膳食纤维较丰富，适合轻食场景。",
+    "id": "pumpkin-salad",
+    "meal": "午餐",
+    "subtitle": "把季节装进餐盘",
+    "servings": 1,
+    "items": [
+      {
+        "name": "南瓜",
+        "quantity": 180,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "熟鹰嘴豆",
+        "quantity": 100,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "生菜",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "玉米",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "南瓜去皮切块，生菜用洁净流水洗净；选择已煮熟的鹰嘴豆。",
+        "seconds": 0
+      },
+      {
+        "title": "蒸南瓜",
+        "text": "南瓜蒸至能够用筷子轻松穿透，玉米同时煮熟。",
+        "seconds": 900
+      },
+      {
+        "title": "沥水",
+        "text": "熟鹰嘴豆沥水，南瓜稍放凉。",
+        "seconds": 0
+      },
+      {
+        "title": "拌匀",
+        "text": "全部食材装盘，加入橄榄油拌匀；按个人需要搭配主食。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "清蒸鳕鱼配时蔬",
+    "tags": "低油 低钠 高蛋白",
+    "ingredients": "鳕鱼 西葫芦 胡萝卜 柠檬",
+    "kcal": 330,
+    "protein": 35,
+    "minutes": 28,
+    "why": "少油烹饪，鱼类蛋白质充足，调味保持清爽。",
+    "id": "steamed-cod",
+    "meal": "晚餐",
+    "subtitle": "清蒸留住鲜味",
+    "servings": 1,
+    "items": [
+      {
+        "name": "鳕鱼",
+        "quantity": 150,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "西葫芦",
+        "quantity": 100,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "胡萝卜",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "柠檬",
+        "quantity": 0.25,
+        "unit": "个",
+        "category": "蔬菜水果"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "鱼在冷藏环境解冻，处理后放入蒸盘；蔬菜切片，柠檬洗净。",
+        "seconds": 0
+      },
+      {
+        "title": "蒸鱼",
+        "text": "水沸腾后放入蒸盘，鱼中心达到 63°C，肉质不透明并易分离。时间随厚度调整。",
+        "seconds": 720
+      },
+      {
+        "title": "煮蔬菜",
+        "text": "西葫芦和胡萝卜煮至熟软，沥水。",
+        "seconds": 300
+      },
+      {
+        "title": "装盘",
+        "text": "挤少许柠檬汁调味。注意检查鱼刺，可按需要搭配主食。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "紫薯酸奶坚果杯",
+    "tags": "早餐 快手",
+    "ingredients": "熟紫薯 酸奶 混合坚果 蓝莓",
+    "kcal": 310,
+    "protein": 14,
+    "minutes": 10,
+    "why": "无需开火，适合早餐或加餐的快速组合。",
+    "id": "yogurt-cup",
+    "meal": "早餐",
+    "subtitle": "一杯简单的早晨",
+    "servings": 1,
+    "items": [
+      {
+        "name": "熟紫薯",
+        "quantity": 100,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "酸奶",
+        "quantity": 150,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "混合坚果",
+        "quantity": 15,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "蓝莓",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "使用已蒸熟并放凉的紫薯，切小块；蓝莓洗净，坚果切碎。",
+        "seconds": 0
+      },
+      {
+        "title": "铺底",
+        "text": "杯中放紫薯，倒入原味酸奶。",
+        "seconds": 0
+      },
+      {
+        "title": "加配料",
+        "text": "铺上蓝莓与坚果即可；含乳制品及坚果，按自身忌口选择。",
+        "seconds": 0
+      },
+      {
+        "title": "享用",
+        "text": "尽快食用，不能及时食用时冷藏保存。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "香蕉坚果燕麦粥",
+    "tags": "早餐 均衡 快手",
+    "ingredients": "燕麦片 牛奶 香蕉 混合坚果",
+    "kcal": 360,
+    "protein": 13,
+    "minutes": 12,
+    "why": "燕麦、牛奶和水果提供稳定能量，适合忙碌的早晨。",
+    "id": "banana-oatmeal",
+    "meal": "早餐",
+    "subtitle": "暖乎乎的能量早餐",
+    "servings": 1,
+    "items": [
+      {
+        "name": "燕麦片",
+        "quantity": 50,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "牛奶",
+        "quantity": 200,
+        "unit": "ml",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "香蕉",
+        "quantity": 1,
+        "unit": "个",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "混合坚果",
+        "quantity": 10,
+        "unit": "g",
+        "category": "主食杂粮"
+      }
+    ],
+    "steps": [
+      {
+        "title": "准备",
+        "text": "香蕉切片，准备燕麦片、牛奶和坚果。",
+        "seconds": 0
+      },
+      {
+        "title": "加热",
+        "text": "牛奶与燕麦放入锅中，小火搅拌至浓稠。",
+        "seconds": 420
+      },
+      {
+        "title": "装碗",
+        "text": "盛入碗中，铺上香蕉片和坚果。",
+        "seconds": 0
+      },
+      {
+        "title": "享用",
+        "text": "稍微放凉后食用，注意牛奶温度。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "菠菜鸡蛋全麦卷",
+    "tags": "早餐 高蛋白 快手",
+    "ingredients": "全麦卷饼 鸡蛋 菠菜 胡萝卜 橄榄油",
+    "kcal": 390,
+    "protein": 22,
+    "minutes": 15,
+    "why": "鸡蛋补充蛋白质，搭配菠菜和全麦饼更有饱腹感。",
+    "id": "spinach-egg-wrap",
+    "meal": "早餐",
+    "subtitle": "十分钟完成的早餐卷",
+    "servings": 1,
+    "items": [
+      {
+        "name": "全麦卷饼",
+        "quantity": 1,
+        "unit": "张",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "鸡蛋",
+        "quantity": 2,
+        "unit": "个",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "菠菜",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "胡萝卜",
+        "quantity": 30,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 3,
+        "unit": "ml",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "菠菜洗净，胡萝卜切细丝，鸡蛋打散。",
+        "seconds": 0
+      },
+      {
+        "title": "炒蛋",
+        "text": "锅中加油，倒入蛋液炒至凝固，再加入菠菜和胡萝卜。",
+        "seconds": 300
+      },
+      {
+        "title": "卷起",
+        "text": "将馅料铺在全麦卷饼上，从一侧卷紧。",
+        "seconds": 0
+      },
+      {
+        "title": "切分",
+        "text": "斜切成两段，趁热食用。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "玉米金枪鱼沙拉",
+    "tags": "午餐 高蛋白 低油",
+    "ingredients": "水浸金枪鱼 甜玉米粒 生菜 小番茄 橄榄油 黑胡椒",
+    "kcal": 330,
+    "protein": 27,
+    "minutes": 12,
+    "why": "金枪鱼与玉米搭配蔬菜，适合作为轻盈午餐。",
+    "id": "corn-tuna-salad",
+    "meal": "午餐",
+    "subtitle": "清爽高蛋白的一盘",
+    "servings": 1,
+    "items": [
+      {
+        "name": "水浸金枪鱼",
+        "quantity": 100,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "甜玉米粒",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "生菜",
+        "quantity": 100,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "小番茄",
+        "quantity": 100,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "黑胡椒",
+        "quantity": 0.5,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "沥水",
+        "text": "金枪鱼和玉米沥去多余水分。",
+        "seconds": 0
+      },
+      {
+        "title": "切菜",
+        "text": "生菜撕小片，小番茄对半切开。",
+        "seconds": 0
+      },
+      {
+        "title": "拌匀",
+        "text": "所有食材放入大碗，加入橄榄油轻轻拌匀。",
+        "seconds": 0
+      },
+      {
+        "title": "装盘",
+        "text": "按口味补充少量黑胡椒，尽快食用。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "黑椒牛肉彩椒饭",
+    "tags": "午餐 高蛋白 均衡",
+    "ingredients": "瘦牛肉 彩椒 洋葱 熟米饭 橄榄油 黑胡椒",
+    "kcal": 520,
+    "protein": 34,
+    "minutes": 25,
+    "why": "牛肉和彩椒提供蛋白质与蔬菜，搭配米饭更完整。",
+    "id": "pepper-beef-rice",
+    "meal": "午餐",
+    "subtitle": "一盘满足感午餐",
+    "servings": 1,
+    "items": [
+      {
+        "name": "瘦牛肉",
+        "quantity": 130,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "彩椒",
+        "quantity": 120,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "洋葱",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "熟米饭",
+        "quantity": 180,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "黑胡椒",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "牛肉切薄片，彩椒和洋葱切丝。",
+        "seconds": 0
+      },
+      {
+        "title": "炒牛肉",
+        "text": "锅中加油，大火快速翻炒牛肉至变色。",
+        "seconds": 240
+      },
+      {
+        "title": "炒蔬菜",
+        "text": "加入洋葱和彩椒炒至断生，牛肉中心应完全熟透。",
+        "seconds": 360
+      },
+      {
+        "title": "装盘",
+        "text": "撒黑胡椒，与熟米饭一起装盘。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "香菇豆腐焖饭",
+    "tags": "午餐 均衡 低油",
+    "ingredients": "大米 北豆腐 鲜香菇 胡萝卜 生抽",
+    "kcal": 480,
+    "protein": 21,
+    "minutes": 35,
+    "why": "豆腐、香菇和米饭一锅烹制，省时又有饱腹感。",
+    "id": "tofu-mushroom-rice",
+    "meal": "午餐",
+    "subtitle": "一锅完成的家常饭",
+    "servings": 1,
+    "items": [
+      {
+        "name": "大米",
+        "quantity": 80,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "北豆腐",
+        "quantity": 150,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "鲜香菇",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "胡萝卜",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "生抽",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "浸泡",
+        "text": "大米淘洗后浸泡，香菇切片，豆腐切块。",
+        "seconds": 0
+      },
+      {
+        "title": "铺料",
+        "text": "大米放入电饭煲，加水至正常刻度，铺上蔬菜和豆腐。",
+        "seconds": 0
+      },
+      {
+        "title": "焖煮",
+        "text": "加入少量生抽，按电饭煲煮饭程序完成。",
+        "seconds": 1500
+      },
+      {
+        "title": "拌匀",
+        "text": "焖好后翻拌均匀，确认豆腐中心热透。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "柠檬三文鱼芦笋",
+    "tags": "晚餐 高蛋白 低油",
+    "ingredients": "三文鱼 芦笋 柠檬 橄榄油 盐",
+    "kcal": 430,
+    "protein": 32,
+    "minutes": 25,
+    "why": "三文鱼提供优质蛋白质，芦笋和柠檬让口味更清爽。",
+    "id": "lemon-salmon-asparagus",
+    "meal": "晚餐",
+    "subtitle": "清新简单的鱼类晚餐",
+    "servings": 1,
+    "items": [
+      {
+        "name": "三文鱼",
+        "quantity": 150,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "芦笋",
+        "quantity": 120,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "柠檬",
+        "quantity": 0.25,
+        "unit": "个",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "盐",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "处理",
+        "text": "三文鱼擦干，芦笋去掉老根，柠檬切片。",
+        "seconds": 0
+      },
+      {
+        "title": "煎鱼",
+        "text": "平底锅加油，鱼皮朝下煎至金黄，再翻面至中心熟透。",
+        "seconds": 720
+      },
+      {
+        "title": "煎蔬菜",
+        "text": "利用锅中余油煎芦笋至断生。",
+        "seconds": 240
+      },
+      {
+        "title": "装盘",
+        "text": "挤少量柠檬汁和盐调味，检查鱼刺后食用。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "椰香鸡肉咖喱",
+    "tags": "晚餐 均衡 高蛋白",
+    "ingredients": "鸡腿肉 土豆 胡萝卜 洋葱 椰浆 咖喱粉 橄榄油",
+    "kcal": 510,
+    "protein": 31,
+    "minutes": 30,
+    "why": "鸡肉搭配土豆和胡萝卜，适合想吃热乎乎晚餐的日子。",
+    "id": "chicken-curry-vegetables",
+    "meal": "晚餐",
+    "subtitle": "温和香浓的一锅菜",
+    "servings": 1,
+    "items": [
+      {
+        "name": "鸡腿肉",
+        "quantity": 150,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "土豆",
+        "quantity": 120,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "胡萝卜",
+        "quantity": 60,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "洋葱",
+        "quantity": 50,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "椰浆",
+        "quantity": 80,
+        "unit": "ml",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "咖喱粉",
+        "quantity": 5,
+        "unit": "g",
+        "category": "调味品"
+      },
+      {
+        "name": "橄榄油",
+        "quantity": 5,
+        "unit": "ml",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "鸡腿肉切块，土豆、胡萝卜和洋葱切块。",
+        "seconds": 0
+      },
+      {
+        "title": "炒香",
+        "text": "锅中少油炒香洋葱和咖喱粉，再加入鸡肉翻炒。",
+        "seconds": 360
+      },
+      {
+        "title": "炖煮",
+        "text": "加入土豆、胡萝卜和适量水，小火煮至蔬菜变软。",
+        "seconds": 900
+      },
+      {
+        "title": "收汁",
+        "text": "倒入椰浆加热片刻，确认鸡肉完全熟透后出锅。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "南瓜扁豆浓汤",
+    "tags": "晚餐 低油 均衡",
+    "ingredients": "南瓜 熟扁豆 洋葱 低钠蔬菜高汤 黑胡椒",
+    "kcal": 300,
+    "protein": 15,
+    "minutes": 30,
+    "why": "南瓜的甜味搭配扁豆，适合清淡而有饱腹感的晚餐。",
+    "id": "lentil-pumpkin-soup",
+    "meal": "晚餐",
+    "subtitle": "一碗温暖的植物蛋白",
+    "servings": 1,
+    "items": [
+      {
+        "name": "南瓜",
+        "quantity": 200,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "熟扁豆",
+        "quantity": 100,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "洋葱",
+        "quantity": 40,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "低钠蔬菜高汤",
+        "quantity": 300,
+        "unit": "ml",
+        "category": "调味品"
+      },
+      {
+        "name": "黑胡椒",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切配",
+        "text": "南瓜去皮切块，洋葱切丁。",
+        "seconds": 0
+      },
+      {
+        "title": "煮软",
+        "text": "洋葱、南瓜和高汤入锅，小火煮至南瓜软烂。",
+        "seconds": 900
+      },
+      {
+        "title": "加入扁豆",
+        "text": "加入熟扁豆继续加热，食材充分热透。",
+        "seconds": 300
+      },
+      {
+        "title": "调味",
+        "text": "用料理棒打成粗细适中的浓汤，撒黑胡椒。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "虾仁牛油果藜麦沙拉",
+    "tags": "午餐 高蛋白 低油",
+    "ingredients": "虾仁 熟藜麦 牛油果 黄瓜 柠檬",
+    "kcal": 450,
+    "protein": 29,
+    "minutes": 25,
+    "why": "虾仁、牛油果和藜麦提供蛋白质、好脂肪和全谷物。",
+    "id": "shrimp-avocado-salad",
+    "meal": "午餐",
+    "subtitle": "清爽又有饱腹感",
+    "servings": 1,
+    "items": [
+      {
+        "name": "虾仁",
+        "quantity": 120,
+        "unit": "g",
+        "category": "肉蛋水产"
+      },
+      {
+        "name": "熟藜麦",
+        "quantity": 100,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "牛油果",
+        "quantity": 0.5,
+        "unit": "个",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "黄瓜",
+        "quantity": 80,
+        "unit": "g",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "柠檬",
+        "quantity": 0.25,
+        "unit": "个",
+        "category": "蔬菜水果"
+      }
+    ],
+    "steps": [
+      {
+        "title": "处理",
+        "text": "虾仁去虾线，黄瓜切片，牛油果切块。",
+        "seconds": 0
+      },
+      {
+        "title": "煮虾",
+        "text": "虾仁煮至完全变红并熟透，捞出沥水。",
+        "seconds": 300
+      },
+      {
+        "title": "组合",
+        "text": "藜麦、黄瓜、牛油果和虾仁放入碗中。",
+        "seconds": 0
+      },
+      {
+        "title": "调味",
+        "text": "挤柠檬汁轻拌，现拌现吃。",
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "name": "苹果肉桂酸奶杯",
+    "tags": "早餐 快手 低油",
+    "ingredients": "原味酸奶 苹果 燕麦片 肉桂粉",
+    "kcal": 290,
+    "protein": 15,
+    "minutes": 8,
+    "why": "苹果和酸奶组合清爽方便，适合作为早餐或加餐。",
+    "id": "apple-yogurt-cup",
+    "meal": "早餐",
+    "subtitle": "无需开火的清甜早餐",
+    "servings": 1,
+    "items": [
+      {
+        "name": "原味酸奶",
+        "quantity": 180,
+        "unit": "g",
+        "category": "豆奶制品"
+      },
+      {
+        "name": "苹果",
+        "quantity": 0.5,
+        "unit": "个",
+        "category": "蔬菜水果"
+      },
+      {
+        "name": "燕麦片",
+        "quantity": 25,
+        "unit": "g",
+        "category": "主食杂粮"
+      },
+      {
+        "name": "肉桂粉",
+        "quantity": 1,
+        "unit": "g",
+        "category": "调味品"
+      }
+    ],
+    "steps": [
+      {
+        "title": "切苹果",
+        "text": "苹果洗净切小丁，按需去皮。",
+        "seconds": 0
+      },
+      {
+        "title": "分层",
+        "text": "杯中依次放入燕麦、酸奶和苹果丁。",
+        "seconds": 0
+      },
+      {
+        "title": "调味",
+        "text": "撒少量肉桂粉，冷藏片刻口感更好。",
+        "seconds": 0
+      },
+      {
+        "title": "享用",
+        "text": "尽快食用，乳制品按保存要求冷藏。",
+        "seconds": 0
+      }
+    ]
+  }
+]

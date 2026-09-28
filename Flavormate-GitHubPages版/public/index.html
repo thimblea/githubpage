@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#23664d">
+  <title>Flavormate · 好好吃饭</title>
+  <link rel="stylesheet" href="./app.css">
+  <script src="./logic.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">跳到主要内容</a>
+  <aside class="sidebar">
+    <a href="#/home" class="brand"><span class="brand-mark">f.</span><span>Flavormate<small>好好吃饭，从今天开始</small></span></a>
+    <p class="nav-label">我的饮食空间</p>
+    <nav id="nav" aria-label="主要导航"></nav>
+    <div class="sidebar-bottom"><span class="status-dot"></span>我的本地厨房<p>计划和清单保存在此浏览器<br>每一餐，都有自己的节奏</p><span class="version">FLAVORMATE / 02.1</span></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span id="breadcrumb">饮食工作台</span><span class="top-date" id="today-label"></span><span class="avatar">我</span></header>
+    <div id="storage-warning" class="storage-warning" role="status" hidden></div>
+    <main id="main" tabindex="-1"><p class="loading">正在准备你的饮食空间…</p></main>
+    <footer class="page-footer">FLAVORMATE <span>一餐一饭，慢慢安排。</span><small>菜谱及营养值用于演示；每份营养为示例估算。</small></footer>
+  </div>
+  <dialog id="plan-dialog" aria-labelledby="dialog-title"></dialog>
+  <dialog id="recipe-dialog" class="recipe-editor" aria-labelledby="recipe-dialog-title"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
